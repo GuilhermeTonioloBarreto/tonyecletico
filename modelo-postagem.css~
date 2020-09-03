@@ -1,0 +1,116 @@
+*{
+	margin: 0;
+	padding: 0;
+	background: #cccccc;
+	font-family: "Arial";
+}
+
+body{
+	margin: 2%;
+	background: #ffffff;
+}
+
+/* Header */
+header h1{
+	background: #ffffff;
+	padding: 40px 0 5px 25px;
+}
+
+header h1 a{
+	text-decoration: none;
+	color: #000000;
+	background: #ffffff;
+}
+
+header h1 a:hover{
+	text-decoration: underline;
+	color: #000000;
+	background: #ffffff;
+}
+
+header div{
+	background: #ffffff;
+	padding: 5px 0 40px 25px;
+}
+
+header nav{
+	background: #202020;
+	padding: 20px 0 20px 20px;
+}
+
+header nav a{
+	background: #202020;
+	color: #f1edf1;
+	text-decoration: none;
+	padding-right: 20px;
+}
+
+header nav a:hover{
+	background: #202020;
+	color: #f1edf1;
+	text-decoration: underline;
+	padding-right: 20px;
+}
+
+/* Imagem principal*/
+.imagem-principal img{
+	display: block;
+	width: 100%;
+}
+
+/* conteudo */
+.conteudo{
+	display: inline-block;
+	margin: 50px 15%;
+	background: #ffffff;
+}
+
+.conteudo h2{
+	border-style: groove;
+	background: #ffffff;
+	padding-bottom: 15px;
+	font-size: 30px;
+}
+
+.conteudo p{
+	border-style: groove;
+	padding: 15px 0;
+	background: #ffffff;
+	color: #000000;
+}
+
+.imagem{
+	border-style: groove;
+	display: block;
+	background: #ffffff;
+	text-align: center;
+}
+
+/* Rodapé */
+
+footer{
+	display: block;
+	width: 100%;
+	padding: 20px 0;
+	clear: both;
+	background: #202020;
+	color: #f1edf1;
+	text-align: center;
+}
+
+footer p{
+	background: #202020;
+	color: #f1edf1;
+}
+
+footer a{
+	background: #202020;
+}
+
+footer a img{
+	background: #202020;
+	margin: 5px 10px 0px 10px;
+	width: 30px;
+}
+
+

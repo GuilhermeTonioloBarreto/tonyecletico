@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<meta charset="UTF-8"/>
+		<title>Toni Eclético</title>
+		<link rel="stylesheet" href="postagem.css" />
+	</head>
+	
+	<body>
+		<header>
+			<h1><a href="index.html">Toni Eclético</a></h1>
+			<div>Meu blog pessoal de estilo de vida</div>
+			<nav>
+				<a href="1-teste-de-receitas-veggie.html">Teste de Receitas Veggies</a>
+				<a href="2-espiritismo.html">Espiritismo</a>
+				<a href="3-critica-animes.html">Crítica Animes</a>
+				<a href="0-sobre-mim.html">Sobre mim</a>			
+			</nav>
+		</header><!-- header -->
+		
+		<section class="imagem-principal">
+			<img src="images/imagem-principal.jpg" alt="foto do dono do blog">
+		</section><!-- imagem-principal -->
+		
+		<section class="conteudo">
+		
+			<h2>Gincanas espíritas: O porvir e o nada / O temor da morte</h2>
+			
+			<p>As gincanas descritas neste blog foram criadas com o intuito de trazer o conhecimento espírita sobre o livro O céu e o inferno (escrito por Alan Kardec) no formato de gincanas. Elas foram utilizadas no evento Sem EJE Eu Não Fico - GINCON: O Céu e o Inferno. O evento foi realizado no dia 23 de fevereiro de 2020, no Centro Espírita GESFA (Grupo Espírita Socorrista Francisco de Assis), localizado na Estrada do Cruzeiro, 8250 - Caucaia do Alto, Cotia - SP.</p>		
+			
+			<div class="imagem"><img src="images/2-gincanas-espiritas-1.1.png" alt="Cartaz Gincon" width="500px" title="Fontes: https://www.facebook.com/dmcotia"></div>			
+				
+			<p>As gincanas descritas abaixo têm como tema os capítulos do livro O Céu e o Inferno:</p>			
+			
+			<ul>
+				<li>O porvir e o nada</li>
+				<li>O temor da morte</li>			
+			</ul>			
+			
+			<!-- Inicio Gincana -->
+			<h2>Titulo da Gincana</h2>			
+			
+			<p><strong>Tema abordado:</strong> bla bla bla</p>
+			
+			<p><strong>Ideia:</strong> bla bla bla</p>
+			
+			<h3>Introdução</h3>
+			
+			<p>Texto da introdução</p>
+			
+			<h3>Materiais</h3>
+			
+			<ul>
+				<li>Material 1</li>
+				<li>Material 2</li>			
+			</ul>
+			
+			<h3>Preparativos</h3>
+			
+			<ul>
+				<li>Preparativo 1</li>
+				<li>Preparativo 2</li>			
+			</ul>
+			
+			<h3>Gincana</h3>
+			
+			<ul>
+				<li>Etapa 1</li>
+				<li>Etapa 2</li>			
+			</ul>
+			
+			<h3>Encerramento</h3>
+			
+			<p>bla bla bla</p>
+			
+			
+		</section><!-- conteudo -->
+		
+		<footer>
+				<p>Tony Eclético -Meu blog pessoal de estilo de vida</p>
+				<a href="https://www.facebook.com/guilherme.toniolobarreto"><img src="images/facebook-logo.png" alt="facebook Guilherme" title="Perfil Facebook"></a>
+				<a href="https://www.instagram.com/gui.toniolo/"><img src="images/instagram-logo.png" alt="instagram Guilherme" title="Perfil Instagram"></a>
+		</footer>
+	</body>
+
+</html>

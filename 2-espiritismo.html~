@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<meta charset="UTF-8"/>
+		<title>Toni Eclético</title>
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	
+	<body>
+		<header>
+			<h1><a href="index.html">Toni Eclético</a></h1>
+			<div>Meu blog pessoal de estilo de vida</div>
+			<nav>
+				<a href="1-teste-de-receitas-veggie.html">Teste de Receitas Veggies</a>
+				<a href="2-espiritismo.html">Espiritismo</a>
+				<a href="3-critica-animes.html">Crítica Animes</a>
+				<a href="0-sobre-mim.html">Sobre mim</a>			
+			</nav>
+		</header><!-- header -->
+		
+		<section class="imagem-principal">
+			<img src="images/imagem-principal.jpg" alt="foto do dono do blog">
+		</section><!-- imagem-principal -->
+		
+		<section class="conteudo">
+			<h2>Espiritismo</h2>
+			
+			<!-- O dilúvio bíblico segundo o espiritismo -->
+			<a href="2-o-diluvio-biblico-segundo-o-espiritismo.html">
+				<div class="bloco">
+					<div class="icone">
+						<img src="images/2-o-diluvio-biblico-segundo-o-espiritismo-1.jpg" alt="icone">
+					</div><!-- icone -->
+				
+					<div class="descricao">
+						<h3>O dilúvio bíblico segundo o espiritismo</h3>
+						<p class="data-postagem">Publicado no dia 8/5</p>
+						<p>Descrição: Entenda a visão espírita sobre o dilúvil bíblico!!!</p>
+					</div><!-- descricao -->
+				</div><!-- bloco -->
+			</a>
+						
+		
+		</section><!-- conteudo -->
+		
+		<footer>
+				<p>Tony Eclético -Meu blog pessoal de estilo de vida</p>
+				<a href="https://www.facebook.com/guilherme.toniolobarreto"><img src="images/facebook-logo.png" alt="facebook Guilherme" title="Perfil Facebook"></a>
+				<a href="https://www.instagram.com/gui.toniolo/"><img src="images/instagram-logo.png" alt="instagram Guilherme" title="Perfil Instagram"></a>
+		</footer>
+	</body>
+
+</html>

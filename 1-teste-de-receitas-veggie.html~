@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<meta charset="UTF-8"/>
+		<title>Toni Eclético</title>
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	
+	<body>
+		<header>
+			<h1><a href="index.html">Toni Eclético</a></h1>
+			<div>Meu blog pessoal de estilo de vida</div>
+			<nav>
+				<a href="1-teste-de-receitas-veggie.html">Teste de Receitas Veggies</a>
+				<a href="2-espiritismo.html">Espiritismo</a>
+				<a href="3-critica-animes.html">Crítica Animes</a>
+				<a href="0-sobre-mim.html">Sobre mim</a>			
+			</nav>
+		</header><!-- header -->
+		
+		<section class="imagem-principal">
+			<img src="images/imagem-principal.jpg" alt="foto do dono do blog">
+		</section><!-- imagem-principal -->
+		
+		<section class="conteudo">
+			<h2>Teste de Receitas Veggies</h2>
+			
+			<!-- Almôndega de lentilha -->
+			<a href="1-almondega-de-lentilha.html">
+				<div class="bloco">
+					<div class="icone">
+						<img src="images/1-almondega-de-lentilha.jpeg" alt="Almôndega de Lentilha" title="Almôndega de Lentilha">
+					</div><!-- icone -->
+				
+					<div class="descricao">
+						<h3>Almôndega de Lentilha</h3>
+						<p class="data-postagem">Publicado no dia 07/05/2020</p>
+						<p>Descrição: Aprenda a fazer a melhor almôndega de lentilha do mundo!!!</p>
+					</div><!-- descricao -->
+				</div><!-- bloco -->
+			</a>
+			
+			<!-- Macarrão com molho de lentilha -->
+			<a href="1-macarrao-com-molho-de-lentilha.html">
+				<div class="bloco">
+					<div class="icone">
+						<img src="images/1-macarrao-com-molho-de-lentilha.jpeg" alt="Macarrão com Molho de Lentilha" title="Macarrão com Molho de Lentilha">
+					</div><!-- icone -->
+				
+					<div class="descricao">
+						<h3>Macarrão com Molho de Lentilha</h3>
+						<p class="data-postagem">Publicado no dia 07/05/2020</p>
+						<p>Descrição: Aprenda a fazer o melhor macarrão com molho de lentilha do mundo!!!</p>
+					</div><!-- descricao -->
+				</div><!-- bloco -->
+			</a>
+		
+		</section><!-- conteudo -->
+		
+		<footer>
+				<p>Tony Eclético -Meu blog pessoal de estilo de vida</p>
+				<a href="https://www.facebook.com/guilherme.toniolobarreto"><img src="images/facebook-logo.png" alt="facebook Guilherme" title="Perfil Facebook"></a>
+				<a href="https://www.instagram.com/gui.toniolo/"><img src="images/instagram-logo.png" alt="instagram Guilherme" title="Perfil Instagram"></a>
+		</footer>
+	</body>
+
+</html>

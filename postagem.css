@@ -1,0 +1,170 @@
+*{
+	margin: 0;
+	padding: 0;
+	background: #cccccc;
+	font-family: "Arial";
+	font-size: 17px;
+}
+
+body{
+	margin: 2%;
+	background: #ffffff;
+}
+
+/* Header */
+header h1{
+	background: #ffffff;
+	padding: 40px 0 5px 25px;
+}
+
+header h1 a{
+	text-decoration: none;
+	color: #000000;
+	background: #ffffff;
+	font-size: 35px;
+	font-weight: bold;
+}
+
+header h1 a:hover{
+	text-decoration: underline;
+	color: #000000;
+	background: #ffffff;
+}
+
+header div{
+	background: #ffffff;
+	padding: 5px 0 40px 25px;
+}
+
+header nav{
+	background: #202020;
+	padding: 20px 0 20px 20px;
+}
+
+header nav a{
+	background: #202020;
+	color: #f1edf1;
+	font-size: 23px;
+	text-decoration: none;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+header nav a:hover{
+	background: #202020;
+	color: #f1edf1;
+	text-decoration: underline;
+	padding-right: 20px;
+}
+
+/* Imagem principal*/
+.imagem-principal img{
+	display: block;
+	width: 100%;
+}
+
+/* conteudo */
+.conteudo{
+	display: inline-block;
+	margin: 50px 15%;
+	background: #ffffff;
+}
+
+.conteudo h2{
+	background: #ffffff;
+	padding-bottom: 15px;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.conteudo h3{
+	background: #ffffff;
+	padding-top: 10px;
+	padding-bottom: 15px;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.conteudo a{
+	background: #ffffff;
+	text-decoration: none;
+}
+
+.conteudo a:hover{
+	background: #ffffff;
+	text-decoration: underline;
+}
+
+.conteudo p{
+	padding: 15px 0;
+	background: #ffffff;
+	color: #000000;
+}
+
+.conteudo ul{
+	padding: 15px 0 30px 0;
+	background: #ffffff;
+}
+
+.conteudo ol{
+	padding: 15px 0 30px 0;
+	background: #ffffff;
+}
+
+
+.conteudo li{
+	background: #ffffff;
+	padding: 3px 0;
+}
+
+.imagem{
+	display: block;
+	background: #ffffff;
+	text-align: center;
+	padding: 15px 0;
+}
+
+.conteudo strong{
+	background: #ffffff;
+	font-weight: bold;
+}
+
+.conteudo hr{
+	display: block;
+  	margin-top: 0.5em;
+  	margin-bottom: 1.5em;
+  	margin-left: auto;
+  	margin-right: auto;
+  	border-style: inset;
+  	border-width: 1px;
+  	color: #cccccc;
+  	background-color: #cccccc;
+}
+/* Rodapé */
+
+footer{
+	display: block;
+	width: 100%;
+	padding: 20px 0;
+	clear: both;
+	background: #202020;
+	color: #f1edf1;
+	text-align: center;
+}
+
+footer p{
+	background: #202020;
+	color: #f1edf1;
+}
+
+footer a{
+	background: #202020;
+}
+
+footer a img{
+	background: #202020;
+	margin: 5px 10px 0px 10px;
+	width: 30px;
+}
+
+

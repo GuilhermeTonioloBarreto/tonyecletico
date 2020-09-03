@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<meta charset="UTF-8"/>
+		<title>Toni Eclético</title>
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	
+	<body>
+		<header>
+			<h1><a href="index.html">Toni Eclético</a></h1>
+			<div>Meu blog pessoal de estilo de vida</div>
+			<nav>
+				<a href="1-teste-de-receitas-veggie.html">Teste de Receitas Veggies</a>
+				<a href="2-espiritismo.html">Espiritismo</a>
+				<a href="3-critica-animes.html">Crítica Animes</a>
+				<a href="0-sobre-mim.html">Sobre mim</a>			
+			</nav>
+		</header><!-- header -->
+		
+		<section class="imagem-principal">
+			<img src="images/imagem-principal.jpg" alt="foto do dono do blog">
+		</section><!-- imagem-principal -->
+		
+		<section class="conteudo">
+			<h2>Últimas Postagens</h2>
+			
+			<!-- Batata Recheada -->
+			<a href="1-batata-recheada.html">
+				<div class="bloco">
+					<div class="icone">
+						<img src="images/1-batata-recheada-1.png" alt="icone">
+					</div><!-- icone -->
+				
+					<div class="descricao">
+						<h3>Batata Recheada</h3>
+						<p class="data-postagem">Publicado no dia 24/5</p>
+						<p>Receita de Batata Recheada feita pela minha vó!!! Uma delícia de batata!!!</p>
+					</div><!-- descricao -->
+				</div><!-- bloco -->
+			</a>				
+			
+			<!-- gincanas espíritas: o céu e o inferno -->
+			<a href="2-gincanas-espiritas-o-ceu-e-o-inferno.html">
+				<div class="bloco">
+					<div class="icone">
+						<img src="images/2-gincanas-espiritas-1.png" alt="icone">
+					</div><!-- icone -->
+				
+					<div class="descricao">
+						<h3>Gincanas Espíritas: O Céu e O Inferno</h3>
+						<p class="data-postagem">Publicado no dia 21/5</p>
+						<p>As gincanas descritas neste blog foram criadas com o intuito de trazer o conhecimento espírita sobre o livro O céu e o inferno (escrito por Alan Kardec) no formato de gincanas.</p>
+					</div><!-- descricao -->
+				</div><!-- bloco -->
+			</a>	
+			
+			<!-- Crítica choujin-koukousei-tachi -->
+			<a href="3-critica-choujin-koukousei-tachi.html">
+				<div class="bloco">
+					<div class="icone">
+						<img src="images/3-critica-choujin-koukousei-tachi.jpg" alt="icone">
+					</div><!-- icone -->
+				
+					<div class="descricao">
+						<h3>Critica Choujin Koukousei-tachi</h3>
+						<p class="data-postagem">Publicado no dia 13/5</p>
+						<p>Descrição: Essa é a minha crítica sobre o anime Choujin Koukousei-tachi Wa Isekai Demo Yoyuu De Ikinuku You Desu</p>
+					</div><!-- descricao -->
+				</div><!-- bloco -->
+			</a>			
+			
+			<!-- Crítica Beastars -->
+			<a href="3-critica-beastars.html">
+				<div class="bloco">
+					<div class="icone">
+						<img src="images/3-critica-beastars.jpg" alt="icone">
+					</div><!-- icone -->
+				
+					<div class="descricao">
+						<h3>Critica Beastars</h3>
+						<p class="data-postagem">Publicado no dia 8/5</p>
+						<p>Descrição: Essa é a minha crítica sobre o anime Beastars</p>
+					</div><!-- descricao -->
+				</div><!-- bloco -->
+			</a>
+			
+			<!-- O dilúvio espírita segundo o espiritismo -->
+			<a href="2-o-diluvio-biblico-segundo-o-espiritismo.html">
+				<div class="bloco">
+					<div class="icone">
+						<img src="images/2-o-diluvio-biblico-segundo-o-espiritismo-1.jpg" alt="icone">
+					</div><!-- icone -->
+				
+					<div class="descricao">
+						<h3>O dilúvio bíblico segundo o espiritismo</h3>
+						<p class="data-postagem">Publicado no dia 8/5</p>
+						<p>Descrição: Entenda a visão espírita sobre o dilúvio bíblico!!!</p>
+					</div><!-- descricao -->
+				</div><!-- bloco -->
+			</a>
+			
+			<!-- Almôndega de Lentilha -->
+			<a href="1-almondega-de-lentilha.html">
+				<div class="bloco">
+					<div class="icone">
+						<img src="images/1-almondega-de-lentilha.jpeg" alt="icone">
+					</div><!-- icone -->
+				
+					<div class="descricao">
+						<h3>Almôndega de Lentilha</h3>
+						<p class="data-postagem">Publicado no dia 7/5</p>
+						<p>Descrição: Aprenda a fazer a melhor almôndega de lentilha do mundo!!!</p>
+					</div><!-- descricao -->
+				</div><!-- bloco -->
+			</a>
+			
+			<!-- Macarrão com molho de Lentilha -->
+			<a href="1-macarrao-com-molho-de-lentilha.html">
+				<div class="bloco">
+					<div class="icone">
+						<img src="images/1-macarrao-com-molho-de-lentilha.jpeg" alt="icone">
+					</div><!-- icone -->
+				
+					<div class="descricao">
+						<h3>Macarrão com molho de Lentilha</h3>
+						<p class="data-postagem">Publicado no dia 7/5</p>
+						<p>Descrição: Aprenda a fazer o melhor macarrão com molho de lentilha do mundo!!!</p>
+					</div><!-- descricao -->
+				</div><!-- bloco -->
+			</a>
+			
+		
+		</section><!-- conteudo -->
+		
+		<footer>
+				<p>Tony Eclético -Meu blog pessoal de estilo de vida</p>
+				<a href="https://www.facebook.com/guilherme.toniolobarreto"><img src="images/facebook-logo.png" alt="facebook Guilherme" title="Perfil Facebook"></a>
+				<a href="https://www.instagram.com/gui.toniolo/"><img src="images/instagram-logo.png" alt="instagram Guilherme" title="Perfil Instagram"></a>
+		</footer>
+	</body>
+
+</html>

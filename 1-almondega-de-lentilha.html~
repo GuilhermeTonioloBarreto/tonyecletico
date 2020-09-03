@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<meta charset="UTF-8"/>
+		<title>Toni Eclético</title>
+		<link rel="stylesheet" href="postagem.css" />
+	</head>
+	
+	<body>
+		<header>
+			<h1><a href="index.html">Toni Eclético</a></h1>
+			<div>Meu blog pessoal de estilo de vida</div>
+			<nav>
+				<a href="1-teste-de-receitas-veggie.html">Teste de Receitas Veggies</a>
+				<a href="2-espiritismo.html">Espiritismo</a>
+				<a href="3-critica-animes.html">Crítica Animes</a>
+				<a href="0-sobre-mim.html">Sobre mim</a>			
+			</nav>
+		</header><!-- header -->
+		
+		<section class="imagem-principal">
+			<img src="images/imagem-principal.jpg" alt="foto do dono do blog">
+		</section><!-- imagem-principal -->
+		
+		<section class="conteudo">
+		
+			<h2>Almôndega de Lentilha</h2>
+			
+			<p>
+				Boa noite galerinha!!! No feriadão de carnaval, eu testei uma receita de almôndega de lentilha fenomenal!!! 
+				A receita foi tirada do canal de youtube Brunna Schnorr. O link do vídeo é: 
+				<a href="https://www.youtube.com/watch?v=Fl6dgjKzLDs">https://www.youtube.com/watch?v=Fl6dgjKzLDs</a>
+			</p>		
+			
+			<div class="imagem"><img src="images/1-almondega-de-lentilha.jpeg" alt="Almôndega de Lentilha" width="300px" title="Almôndega de Lentilha"></div>
+			
+			<h3>Ingredientes</h3>
+		
+			<ul>
+				<li>500g de lentilha</li>
+				<li>½ xícara de cebola cortada em partes de 1/8</li>
+				<li>2 dentes de alho</li>
+			</ul>
+			
+			<h3>Temperos (não precisam ser exatamente estes)</h3>
+			
+			<ul>
+				<li>½ colher de sopa de curry</li>
+				<li>2 colheres de sopa de orégano</li>
+				<li>1 colher de sopa de sal</li>
+				<li>¼ de xícara de farelo de aveia</li>
+			</ul>
+			
+			<h3>Opcional</h3>		
+			
+			<ul>
+				<li>1kg de farinha de linhaça ou farinha de rosca</li>
+				<li>Molho de sua preferência (mostarda, molho de tomate)</li>
+			</ul>			
+			
+			<h3>Preparo</h3>		
+			
+			<ul>
+				<li>Coloque os 500g de lentilha de molho de um dia para outro</li>
+				<li>Escorra a lentilha e lave-a</li>
+				<li>Num processador, bata 4 xícaras da lentilha junto com a cebola e o alho. A massa tem que ficar um farelo</li>
+				<li>Caso você só tenha liquidificador, deixe a cebola e o alho picadinhos antes de colocar no liquificador. 
+				Coloque a lentilha de pouco em pouco, para não sobrecarregar o liquidificador</li>
+				<li>Acrescente um pouco de água para o liquidificador conseguir bater a lentilha</li>
+				<li>Tire a mistura do processador. Coloque em uma tapuer ou travessa</li>
+				<li>Acrescente os temperos na massa e misture</li>
+				<li>Acrescente o farelo de aveia e misture</li>
+				<li>Caso a massa esteja muito mole (por conta da água do liquidificador, coloque mais farelo de aveia)</li>
+				<li>Deixe a mistura descansar na geladeira por 20 min</li>
+				<li>Faça as bolinhas do tipo almôndegas e empane-as na farinha de linhaça, ou na de rosca, ou se quiser, 
+				nem precisa empaná-las</li>
+				<li>Coloque as bolinhas no forno pré-aquecido a 220°C por 15 minutos</li>
+				<li>Sirva com o molho de sua preferência</li>
+			</ul>	
+			
+		</section><!-- conteudo -->
+		
+		<footer>
+				<p>Tony Eclético -Meu blog pessoal de estilo de vida</p>
+				<a href="https://www.facebook.com/guilherme.toniolobarreto"><img src="images/facebook-logo.png" alt="facebook Guilherme" title="Perfil Facebook"></a>
+				<a href="https://www.instagram.com/gui.toniolo/"><img src="images/instagram-logo.png" alt="instagram Guilherme" title="Perfil Instagram"></a>
+		</footer>
+	</body>
+
+</html>

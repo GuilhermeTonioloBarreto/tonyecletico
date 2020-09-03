@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<meta charset="UTF-8"/>
+		<title>Toni Eclético</title>
+		<link rel="stylesheet" href="postagem.css" />
+	</head>
+	
+	<body>
+		<header>
+			<h1><a href="#">Toni Eclético</a></h1>
+			<div>Meu blog pessoal de estilo de vida</div>
+			<nav>
+				<a href="#">Teste de Receitas Veggies</a>
+				<a href="#">Espiritismo</a>
+				<a href="#">Crítica Animes</a>
+				<a href="#">Sobre mim</a>			
+			</nav>
+		</header><!-- header -->
+		
+		<section class="imagem-principal">
+			<img src="images/imagem-principal.jpg" alt="foto do dono do blog">
+		</section><!-- imagem-principal -->
+		
+		<section class="conteudo">
+		
+			<h2>Macarrão com Molho de Lentilha</h2>
+			
+			<p>
+				Boa noite galerinha!!! No feriadão de carnaval, eu fiz um macarrão com molho de lentilha fenomenal!!! 
+				A receita foi tirada do canal de youtube Brunna Schnorr. O link do vídeo é: 
+				<a href="https://www.youtube.com/watch?v=Fl6dgjKzLDs">https://www.youtube.com/watch?v=Fl6dgjKzLDs</a>
+			</p>		
+			
+			<div class="imagem"><img src="images/macarrao-com-molho-de-lentilha.jpeg" alt="Macarrão com Molho de Lentilha" width="300px" title="Macarrão com Molho de Lentilha"></div>
+			
+			<h3>Ingredientes</h3>
+		
+			<ul>
+				<li>500g de lentilha</li>
+				<li>1 colher de sopa de azeite de oliva</li>
+				<li>½ xícara de cebola picadinha</li>
+				<li>2 dentes de alho picadinho</li>
+				<li>½ xícara de cebola picadinha</li>
+				<li>1 ½ xícara de molho de tomate</li>
+			</ul>
+			
+			<h3>Temperos</h3>
+			
+			<ul>
+				<li>1 colher de sopa de orégano</li>
+				<li>1 colher de chá de sal</li>
+				<li>Pimenta do reino a gosto</li>
+				<li>500g macarrão integral parafuso</li>
+			</ul>
+			
+			<h3>Preparo</h3>		
+			
+			<ul>
+				<li>Coloque os 500g de lentilha de molho de um dia para outro	</li>
+				<li>Escorra a lentilha e lave-a</li>
+				<li>Numa panela, coloque o azeite, a cebola, o alho e a cebola. Dê uma refogadinha</li>
+				<li>Adicione 2 ½ xícaras de lentilha. Mexa a mistura</li>
+				<li>Adicione o molho de tomate. Mexa a mistura</li>
+				<li>Adicione 1 xícara de água. Mexa a mistura</li>
+				<li>Adicione os temperos. Mexa a mistura</li>
+				<li>Deixe a mistura em fogo médio e a tampa da panela meio aberta por 20 min</li>
+				<li>Faça o macarrão integral</li>	
+				<li>Coloque a mistura em cima do macarrão, tipo um molho para o macarrão</li>
+			</ul>	
+			
+		</section><!-- conteudo -->
+		
+		<footer>
+				<p>Tony Eclético -Meu blog pessoal de estilo de vida</p>
+				<a href="#"><img src="facebook-logo.png" alt="facebook Guilherme" title="Perfil Facebook"></a>
+				<a href="#"><img src="instagram-logo.png" alt="instagram Guilherme" title="Perfil Instagram"></a>
+		</footer>
+	</body>
+
+</html>
